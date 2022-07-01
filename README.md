@@ -26,10 +26,10 @@ Normalmente se pede:
 
 # Dicas se sua linguagem escolhida for javascript 
 
-1. Comece estudando javascript e depois typescript (pode pular direto pro type mas sempre é bom aprender javascript vosse sempre usa esse trem em algum lugar).
+1. Comece estudando javascript e depois typescript (pode pular direto pro type mas sempre é bom aprender javascript você sempre usa esse trem em algum lugar).
 2. Leia sobre ECMA script **https://kenzie.com.br/blog/ecmascript-6/** que é o padrão de linguagem do javascript. Isso não é uma linguagem é só um padrão
 3. Quanto estiver bom parta pro nodejs
 4. Aprenda um framework para nodejs 
 5. Estude um banco de dados. 
 6. Estude Git. 
-7. estude tanto backend quanto frontend (mobile tbm) só de mais foco em 1 do que no outro. Até vc ter certeza do que vai fazer
+7. Olhe tanto backend quanto frontend (mobile tbm) só de mais foco em 1 do que no outro. Até vc ter certeza do que vai fazer.
